@@ -1,0 +1,22 @@
+p {
+    color: aqua;
+    font-size: larger;
+}
+h1 {
+    color: deeppink;
+    font-size: ;
+}
+h3 {
+    color: greenyellow;
+    font: medium;
+}
+img {
+    width: 250px
+    height: 250px;;
+}
+body {
+    background-color: rgb(216, 175, 206);
+}
+li {
+    font-size: larger;
+}
